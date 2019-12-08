@@ -1,0 +1,15 @@
+<!DOCTYPE RCC><RCC version="1.0"> 
+ <qresource prefix="/Icon">
+    <file alias="query.png">./Icon/query.png</file>
+	<file alias="room.png">./Icon/room.png</file>
+    <file alias="undate.png">./Icon/update.png</file>
+    <file alias="insert.png">./Icon/insert.png</file>
+	<file alias="load.png">./Icon/load.png</file>
+	<file alias="book.png">./Icon/book.png</file>
+	<file alias="borrow.png">./Icon/borrow.png</file>
+	<file alias="return.png">./Icon/return.png</file>
+	<file alias="user.png">./Icon/user.png</file>
+	<file alias="password.png">./Icon/password.png</file>
+	<file alias="lib.png">./Icon/lib.png</file>		
+  </qresource>
+</RCC>
